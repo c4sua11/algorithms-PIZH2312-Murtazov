@@ -1,0 +1,21 @@
+Алгоритм,Тип данных,Время (сек)
+Bubble Sort,almost_sorted,0.8497835999987728
+Bubble Sort,random,1.4192022500028543
+Bubble Sort,reversed,1.8377959000063129
+Bubble Sort,sorted,0.0002328999980818118
+Insertion Sort,almost_sorted,0.04019415000220758
+Insertion Sort,random,0.5922070749984414
+Insertion Sort,reversed,1.167525900000328
+Insertion Sort,sorted,0.0003950249993067582
+Merge Sort,almost_sorted,0.00786420000440555
+Merge Sort,random,0.008995000000140824
+Merge Sort,reversed,0.006070175000786525
+Merge Sort,sorted,0.0058025250000354744
+Quick Sort,almost_sorted,0.004261324997059959
+Quick Sort,random,0.004708075000962652
+Quick Sort,reversed,0.0039863500023784
+Quick Sort,sorted,0.004015425001853103
+Selection Sort,almost_sorted,0.5979802250003559
+Selection Sort,random,0.5852717999987362
+Selection Sort,reversed,0.6221116000015172
+Selection Sort,sorted,0.5657187749966397
