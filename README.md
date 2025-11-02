@@ -1,1 +1,0 @@
-# algorithms-PIZH2312-Murtazov
